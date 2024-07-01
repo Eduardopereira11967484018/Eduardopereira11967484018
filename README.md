@@ -25,9 +25,8 @@ Briefly introduce yourself here.
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
-- Website: [Your Personal Website URL]
+- LinkedIn: [https://www.linkedin.com/in/eduardo-pereira-lima-7580a5239/]
+- Email: [eduardopereira.lima@yahoo.com.br]
+- Website: [https://eduardopereira-dev.vercel.app/]
 
 Feel free to explore my repositories and reach out to collaborate on exciting projects!
