@@ -8,7 +8,7 @@
   <a href="seu-portfólio"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<h2 align="center">🚀 Tecnologias que Domino</h2>
+<h2 align="center">🚀 Tecnologias </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nodejs,jest,docker,git,tailwind,styledcomponents&perline=7" alt="Tech Stack" />
