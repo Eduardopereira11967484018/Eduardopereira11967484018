@@ -1,60 +1,29 @@
-# Eduardo Pereira Lima
+# Olá, eu sou [Seu Nome] 👋
 
-[LinkedIn](seu-linkedin) | [GitHub](seu-github) | [Portfólio](seu-portfólio)
+## Sobre mim
+- 🔭 Atualmente estou trabalhando em [seu projeto atual]
+- 🌱 Estou aprendendo [tecnologia ou habilidade]
+- 👯 Procuro colaborar em [tipo de projetos]
+- 💬 Me pergunte sobre [suas áreas de expertise]
+- 📫 Como me encontrar: [seu email ou outras formas de contato]
 
-📞 **Contato:** 11 96748-4018 / 11 2499-3899  
-✉️ **Email:** eduardopereira.lima@yahoo.com  
-📍 **Localização:** Pimentas, Guarulhos - São Paulo  
-🎂 **Data de Nascimento:** 03/10/1987
+## Minhas habilidades
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## Objetivo Profissional
+## Estatísticas do GitHub
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
 
-Desenvolvedor Front End
+## Projetos em destaque
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=nome-do-repo)](https://github.com/seuusername/nome-do-repo)
 
-## Resumo de Qualificações
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusername/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuusername)
 
-Sou um desenvolvedor web em constante evolução, atualmente graduando em Análise e Desenvolvimento de Sistemas e cursando Engenharia Front-End na EBAC. Durante meu estágio, estou comprometido em criar soluções inovadoras e eficientes, utilizando um conjunto diversificado de tecnologias, incluindo **Next.js**, **Docker** e **SQLite**. Possuo habilidades avançadas em testes, tanto com **Jest** para testes unitários quanto com **Cypress** para testes E2E, e sou proficiente na utilização de interfaces com **Tailwind CSS** e **Styled-Components**.
-
-Minha trajetória profissional é marcada pela resiliência e adaptabilidade, o que me permite enfrentar desafios e aprender com as adversidades. Minhas competências abrangem uma ampla gama de tecnologias e ferramentas, como **HTML**, **CSS**, **JavaScript**, **TypeScript**, **jQuery**, **Bootstrap**, **React**, **Angular**, **Vue.js**, **Gulp**, **LESS**, **SASS**, **Node.js**, **Git**, **GitHub**. Atualmente, estou envolvido no desenvolvimento frontend de um projeto de scanner de vulnerabilidades, que utiliza para realizar varreduras em repositórios de código em diversas linguagens.
-
-## Formação
-
-- **Análise e Desenvolvimento de Sistemas** - Tecnólogo - Estácio de Sá (01/2022 à 06/2025)
-- **Engenheiro Front-End** - Curso livre profissionalizante - EBAC Escola Britânica de Artes Criativas (01/2024 à 08/2024)
-
-## Experiência Profissional
-
-### Yellowsec (São Paulo/Estado)  
-**Estágio de Front-End** (09/2023 - 05/2024)  
-- Contribuindo para a criação de uma aplicação de scanner que realiza varreduras em repositórios para detectar vulnerabilidades.
-- Aprimorando habilidades em resolução de problemas e aprendendo sobre sistemas de autenticação com **Next Auth** e APIs **RESTful**.
-- Utilização de **Next.js 14** e **React.js**.
-
-## Projetos Relevantes
-
-### Play Games
-**Data:** 05/2024  
-Desenvolvi uma aplicação de e-commerce utilizando **React**, **Redux/toolkit**, **Formik**, **React Query** e **Jest**. A aplicação exibe uma lista de produtos buscados de uma API REST e inclui um carrinho de compras com funcionalidades para adicionar, remover e ajustar a quantidade de produtos. Implantada na plataforma **Vercel**.
-
-### Weather App
-**Data:** 09/2023  
-Desenvolvi uma aplicação de clima utilizando **Tailwind CSS** e **Axios**. A principal funcionalidade do app é permitir ao usuário pesquisar sua cidade para receber a previsão do tempo. O aplicativo é responsivo e funciona bem em diversas telas.
-
-## Idiomas
-
-- **Inglês** - Básico
-
-## Competências
-
-- HTML, CSS, JavaScript, TypeScript, Git, GitHub, Azure DevOps, Node.js, jQuery, Bootstrap, SCSS, Gulp, LESS, Vue.js, Next.js, Angular, React, Jest, Docker, Cypress, Figma, SQLite, APIs RESTful, Redux, Styled-Components.
-
-## Cursos/Atividades Complementares
-
-- Curso **Next.js** - UDEMY - 2023
-- Bootcamp **Angular Web Developer** - Dio.me - 2023
-
----
-
-Sinta-se à vontade para personalizar os links e adicionar mais informações conforme necessário!
-
-
+## Visitantes
+![Contador de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=seuusername.seuusername)
