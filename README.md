@@ -30,7 +30,7 @@
 <h2 align="center">🌟 Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://github.com/Eduardopereira11967484018/play-games">
+  <a href="https://e-play-games.vercel.app/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardopereira11967484018&repo=play-games&theme=radical" />
   </a>
   <a href="https://github.com/Eduardopereira11967484018/weather-app">
