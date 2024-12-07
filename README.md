@@ -31,10 +31,10 @@
 
 <div align="center">
   <a href="https://e-play-games.vercel.app/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardopereira11967484018&repo=play-games&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardopereira11967484018&repo=EPlay-gemas&theme=radical" />
   </a>
-  <a href="https://github.com/Eduardopereira11967484018/weather-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardopereira11967484018&repo=weather-app&theme=radical" />
+  <a href="https://wearther-app-eduardo.vercel.app/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardopereira11967484018&repo=wearther-app&theme=radical" />
   </a>
 </div>
 
