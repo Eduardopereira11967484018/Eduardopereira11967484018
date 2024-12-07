@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-  <a href="seu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/seu-perfil-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/EduardoPereiraLima"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="seu-portfólio"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
+  <a href="https://eduardopereira-dev.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio"></a>
 </p>
 
-<h2 align="center">🚀 Tecnologias </h2>
+<h2 align="center">🚀 Tecnologias</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nodejs,jest,docker,git,tailwind,styledcomponents&perline=7" alt="Tech Stack" />
