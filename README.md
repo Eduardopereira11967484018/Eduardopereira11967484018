@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Eu+sou+Eduardo+Pereira+Lima;Desenvolvedor+Front-End+em+Ascensão&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Eu+sou+Eduardo+Pereira+Lima;Desenvolvedor+Front-End+em+Ascensão&center=true&size=20">
 </div>
 
 <p align="center">
@@ -39,10 +39,6 @@
 </div>
 
 <h2 align="center">🎨 Minha Jornada de Código</h2>
-
-<div align="center">
-  <img src="https://github.com/Eduardopereira11967484018/Eduardopereira11967484018/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <h2 align="center">📫 Vamos Conversar?</h2>
 
